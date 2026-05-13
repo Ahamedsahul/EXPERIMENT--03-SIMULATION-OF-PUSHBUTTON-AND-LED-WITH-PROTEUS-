@@ -294,14 +294,20 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
+LED OFF:
+
 <img width="1920" height="1080" alt="Screenshot 2026-05-13 113933" src="https://github.com/user-attachments/assets/5983a657-9cb0-42bf-902a-53907e288c84" />
+
+
+LED ON:
 
 <img width="1920" height="1080" alt="Screenshot 2026-05-13 114000" src="https://github.com/user-attachments/assets/a60c643a-cf9b-420c-a6bc-7e997c385835" />
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- 
+ <img width="891" height="709" alt="Screenshot 2026-05-13 115346" src="https://github.com/user-attachments/assets/3f5c763e-a7a7-4819-8ff7-37cfd4748b5b" />
+
  
  
 ## Result :
